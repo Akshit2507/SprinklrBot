@@ -1,1 +1,2 @@
-# SprinklrBot
+# Sprinklr
+Intern Project
